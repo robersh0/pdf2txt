@@ -38,6 +38,6 @@ As an example, tests are just made for domain model.
 
 To pass tests, run the following commands:
 ```
-pip install requirements/test.txt 
+pip install -r requirements/test.txt 
 pytest tests
 ``` 
